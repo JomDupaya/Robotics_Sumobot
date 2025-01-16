@@ -50,6 +50,9 @@ This document provides a detailed list of components used in the Sumobot project
 - [Arduino Nano Official Documentation](https://www.arduino.cc/en/Guide/ArduinoNano)
 - [TB6612FNG Motor Driver Datasheet](https://www.toshiba.semicon-storage.com/info/docget.jsp?did=2720&prodName=TB6612FNG)
 - [Sharp IR Sensor Datasheet](https://www.sharp.co.jp/products/device/ir-sensor/pdf/data-sheets/sharp-ir-sensor-20cm-to-150cm.pdf)
+- [TB6612FNG Hookup Guide](https://learn.sparkfun.com/tutorials/tb6612fng-hookup-guide/all)
+- [How to use a SHARP GP2Y0A21YK0F IR Distance Sensor with Arduino](https://www.makerguides.com/sharp-gp2y0a21yk0f-ir-distance-sensor-arduino-tutorial/)
+- 
 
 ---
 
