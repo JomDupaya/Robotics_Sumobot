@@ -37,7 +37,7 @@ The project structure is organized as follows:
 |-----------------------------------|-------------------------------------------------------------------|
 | `README.md`                       | Project overview and instructions                                |
 | `LICENSE`                         | License file                                                     |
-| `SRC/`                            | Source code of the sumobot                                                    |
+| `SRC/`                            | Source codes and testing codes of the sumobot                                                    |
 | `docs/`                           | Documentation of the sumobot                                                    |
 | `Assets/`                         | Media files containing the relative sumobot layout                                                        |
 
