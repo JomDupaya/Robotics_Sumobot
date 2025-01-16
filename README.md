@@ -44,6 +44,10 @@ The project structure is organized as follows:
 | `docs/Components_List.md`         | List of components                                                |
 | `docs/PCB layout.jpg`             | Actual layout of the schematic diagram in PCB                                         |
 | `docs/Shematic Diagram_Sumobot.png`         | Connection diagram                                                |
+| `docs/Sumobot Layout.png`         | Component Layout of the Design                                             |
+| `docs/Sumobot Design.pdf`         | CAD Design of the Sumobot                                            |
+| `docs/Sumobot Drawing1.pdf`         | Extension of the Sumobot drawing plate, showcasing additional views and details of the mechanical structure.        |
+| `docs/Sumobot Drawing2.pdf`         | Continuation of the Sumobot drawing plate, providing further insights into the design, including component placements. |
 | `Assets/`                         | Media files                                                       |
 | `Assets/Images/`                         | Image files containing the relative sumobot layout                                                      |
 | `Assets/Videos/`                         | Video files containing the relative sumobot layout                                                      |
