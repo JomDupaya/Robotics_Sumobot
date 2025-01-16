@@ -39,4 +39,5 @@ To use this code, you’ll need:
 
 ## 📜 License
 
-This project is open-source and released under the [MIT License](LICENSE).
+This project is open-source and released under the [License](https://github.com/JomDupaya/Robotics_Sumobot/blob/e8f7132bed7ddc537f46a0e22422b6b8f175e030/LICENSE).
+
