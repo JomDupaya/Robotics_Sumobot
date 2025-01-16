@@ -1,6 +1,6 @@
 # Project Assets
 
-This repository contains various support images used for the repository.
+This repository contains various support images and media used for the repository.
 
 ## Directory Structure
 
