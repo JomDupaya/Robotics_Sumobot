@@ -12,7 +12,7 @@ You can view or download the images from the `images/` directory to assist with 
 
 ## License
 
-The images are provided under the same license as the project. This project is intended for portfolio use only and is not licensed for redistribution or modification. All rights reserved.
+The images are provided under the same license as the project.
 
 
 If you have any questions or need further assistance, feel free to reach out.
