@@ -98,7 +98,6 @@ The main program is divided into the following sections:
 ## 🚀 Future Improvements
 - 🧠 **Enhanced AI**: Implementing machine learning algorithms for adaptive strategies.
 - 🛠️ **Improved Sensors**: Adding a wider range of sensors for better opponent detection.
-- 🔋 **Energy Efficiency**: Optimizing power consumption to extend operational time.
 - 🎯 **Advanced Tactics**: Developing complex movement patterns for more competitive performance.
 
 ---
