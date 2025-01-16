@@ -8,7 +8,7 @@ You can view or download the images from the `images/` directory to assist with 
 
 ## License
 
-The images are provided under the same license as the project.
+The images and media are provided under the same license as the project.
 
 
 If you have any questions or need further assistance, feel free to reach out.
