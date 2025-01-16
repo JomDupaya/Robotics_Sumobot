@@ -109,7 +109,7 @@ This project was made possible through the collaboration of dedicated team membe
 
 ## 📞 Contact
 For inquiries, feedback, or collaboration, please reach out to:
-**Name**: Jom Dupaya  
+**Name**:
 **Email**:
 
 ---
