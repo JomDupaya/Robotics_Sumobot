@@ -122,9 +122,9 @@ This project was made possible through the collaboration of dedicated team membe
 ---
 
 ## 📞 Contact
-For inquiries, feedback, or collaboration, please reach out to:  
-**Name**: 
-**Email**: 
+For inquiries, feedback, or collaboration, please feel free to reach out to my following social media pages:  
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/jomarie.dupaya/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jomariedupaya/)  
 
 ---
 
