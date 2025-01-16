@@ -18,6 +18,7 @@ The **Sumobot Project** is a robotic system designed for sumo-style robot compet
   *Cyber Fighter Ultimate Sumobot Competition - University of Santo Tomas (UST)*  
   **Date**: February 2024  
 
+[![Sumobot Awards](images/sumobot-action.png)](https://github.com/JomDupaya/Robotics_Sumobot/blob/1767b3be45a3c4d9349dbc346e6108b4b05df7a8/Assets/Award.jpg)
 ---
 
 ## ✨ Features
