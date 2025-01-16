@@ -39,13 +39,10 @@ The project structure is organized as follows:
 | `LICENSE`                         | License file                                                     |
 | `src/`                            | Source code                                                      |
 | `src/main.ino`                    | Main Arduino sketch                                               |
-| `src/motor_control.ino`           | Motor control logic                                               |
-| `src/sensor_logic.ino`            | Sensor processing code                                            |
-| `src/movement.ino`                | Movement strategy algorithms                                      |
 | `docs/`                           | Documentation                                                     |
-| `docs/wiring_diagram.png`         | Connection diagram                                                |
+| `docs/Shematic Diagram_Sumobot.png`         | Connection diagram                                                |
 | `docs/components_list.md`         | List of components                                                |
-| `docs/calibration.md`             | Sensor calibration guide                                          |
+| `docs/PCB layout.jpg`             | Actual layout of the schematic diagram in PCB                                         |
 | `assets/`                         | Media files                                                       |
 | `tests/`                          | Test scripts                                                      |
 | `tests/motor_test.ino`            | Motor test script                                                 |
