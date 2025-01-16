@@ -37,16 +37,16 @@ The project structure is organized as follows:
 |-----------------------------------|-------------------------------------------------------------------|
 | `README.md`                       | Project overview and instructions                                |
 | `LICENSE`                         | License file                                                     |
-| `src/`                            | Source code                                                      |
-| `src/main.ino`                    | Main Arduino sketch                                               |
+| `SRC/`                            | Source code                                                      |
+| `SRC/main.ino`                    | Main Arduino sketch                                               |
+| `SRC/Test and Debugging SRC/`                          | Test scripts                                                      |
 | `docs/`                           | Documentation                                                     |
-| `docs/Shematic Diagram_Sumobot.png`         | Connection diagram                                                |
-| `docs/components_list.md`         | List of components                                                |
+| `docs/Components_List.md`         | List of components                                                |
 | `docs/PCB layout.jpg`             | Actual layout of the schematic diagram in PCB                                         |
-| `assets/`                         | Media files                                                       |
-| `tests/`                          | Test scripts                                                      |
-| `tests/motor_test.ino`            | Motor test script                                                 |
-| `tests/sensor_test.ino`           | Sensor test script                                                |
+| `docs/Shematic Diagram_Sumobot.png`         | Connection diagram                                                |
+| `Assets/`                         | Media files                                                       |
+| `Assets/Images/`                         | Image files containing the relative sumobot layout                                                      |
+| `Assets/Videos/`                         | Video files containing the relative sumobot layout                                                      |
 
 ---
 
