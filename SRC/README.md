@@ -3,7 +3,7 @@
 The source code for the Sumobot project is organized into a single file, which contains the initialization of the system, motor control, sensor readings, and movement logic. The code is modular, making it easy to update or add new features.
 
 ### Code Structure:
-- **main.ino**: The main file that contains the core logic for controlling the Sumobot:
+- **Sumobotmain.ino**: The main file that contains the core logic for controlling the Sumobot:
   - Motor control for movement (forward, reverse, turning)
   - Reading from line sensors, ultrasonic sensors, and infrared sensors
   - Implementing movement strategies based on sensor data
