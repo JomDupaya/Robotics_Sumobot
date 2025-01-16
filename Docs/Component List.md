@@ -52,7 +52,8 @@ This document provides a detailed list of components used in the Sumobot project
 - [Sharp IR Sensor Datasheet](https://www.sharp.co.jp/products/device/ir-sensor/pdf/data-sheets/sharp-ir-sensor-20cm-to-150cm.pdf)
 - [TB6612FNG Hookup Guide](https://learn.sparkfun.com/tutorials/tb6612fng-hookup-guide/all)
 - [How to use a SHARP GP2Y0A21YK0F IR Distance Sensor with Arduino](https://www.makerguides.com/sharp-gp2y0a21yk0f-ir-distance-sensor-arduino-tutorial/)
-- 
+- [Arduino UNO: Complete Ultrasonic Sensor Guide (HC-SR04)](https://www.instructables.com/Arduino-UNO-Complete-Ultrasonic-Sensor-Guide-HC-SR/)
+- [Pololu QTR Reflectance Sensor Application Note](https://www.pololu.com/docs/pdf/0J13/QTR_application_note.pdf)
 
 ---
 
