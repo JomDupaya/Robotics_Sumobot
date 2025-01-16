@@ -4,7 +4,7 @@ This repository contains various support images and media used for the repositor
 
 ## Usage
 
-You can view or download the images from the `images/` directory to assist with understanding the concepts, steps, or components described in the project.
+You can view or download the images from the `Assets/` directory to assist with understanding the concepts, steps, or components described in the project.
 
 ## License
 
