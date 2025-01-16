@@ -47,9 +47,6 @@ The project structure is organized as follows:
 | `docs/components_list.md`         | List of components                                                |
 | `docs/calibration.md`             | Sensor calibration guide                                          |
 | `assets/`                         | Media files                                                       |
-| `assets/bot_photo.jpg`            | Sumobot image                                                     |
-| `assets/competition_video.mp4`    | Competition performance video                                     |
-| `assets/logo.png`                 | Project logo                                                      |
 | `tests/`                          | Test scripts                                                      |
 | `tests/motor_test.ino`            | Motor test script                                                 |
 | `tests/sensor_test.ino`           | Sensor test script                                                |
